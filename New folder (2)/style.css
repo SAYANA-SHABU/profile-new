@@ -1,0 +1,68 @@
+header a{
+    margin-left: 50px;
+    padding: 5px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    text-decoration:none;
+ }
+ header{
+     border: 2px solid white;
+ }
+ *{background-color:lightgreen;}
+ .header{
+     margin-left: 600px;
+     font-size:xx-large ;
+     text-decoration: underline;
+    
+ }
+ header a:hover{
+     background-color:darkgreen;
+     color:white;
+ }
+ #logo{
+     height: 150px;
+     margin-right: 0px;
+     border: 2px solid black;
+     
+ }
+ .footer
+ {color: red;
+     margin-left: 40%;
+     
+ 
+ }
+ .aboutme{border: 2px solid white;
+ padding-left: 50px;}
+ 
+ .skills{border: 1px solid white;
+     padding-left: 50px;
+ font-size: large;}
+ .education{border: 1px solid white;
+     padding-left: 50px;}
+ .experiences{border: 1px solid white;
+     padding-left: 50px;}
+ .contact{border: 1px solid white;
+     padding-left: 50px;}
+ .top{
+     float: right;
+     margin-top: 10px;
+     margin-right: 140px;
+   }
+   .navigation2{
+    margin-left: 640px;
+    font-size: xx-large;
+  }
+  .experiences2{
+     font-size:x-large;
+  }
+  .aboutme2{
+     font-size:x-large;
+  }
+  .skills2{
+     font-size:x-large; 
+  }
+  .education2{
+     font-size:x-large; 
+  }
+ 
+   
